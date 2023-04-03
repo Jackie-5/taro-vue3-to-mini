@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "picker": "../../taro/components/picker/index"
+  }
+}
